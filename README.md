@@ -1,5 +1,8 @@
 ## Analysis of the highest educational attainment in the Czech Republic
 This project deals with the analysis of data on the highest educational attainment of the population of the Czech Republic. The aim is to use Power BI to visualize the distribution of education across different categories and demographic groups. The project includes an interactive dashboard that allows users to filter the data by different levels of education, gender and other demographic factors.
+
+![Ukázka vizualizace](Ukázka_vizualizace.png)
+
 ## Key Features:
 - Interactive visualization.
 - Education Overview.
